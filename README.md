@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- Back-end web developer with experience in Django
+- How to reach me: By email at shawnericksen.github@protonmail.com
+- Other Technologies: Java, javascript, postgres
+
 <!--
 **shawnericksen/shawnericksen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
