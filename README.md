@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-- Back-end web developer with experience in Django
+- Back-end web developer
 - How to reach me: By email at shawnericksen.github@protonmail.com
-- Other Technologies: Java, javascript, postgres
+- Technologies: Python/Django, Java, PostgreSQL, JavaScript
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawnericksen&theme=dracula)](https://github.com/shawnericksen/github-readme-stats)
 
 <!--
 **shawnericksen/shawnericksen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
